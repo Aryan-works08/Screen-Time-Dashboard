@@ -3,7 +3,8 @@
 
 This repository contains a dashboard visualizing screen time data. The dashboard provides insights into screen time usage patterns across different screen time types (educational, recreational, total), gender, day types (weekday, weekend), and age groups.
 
-**Tools Used**
+**Tools Used**\
+
 Microsoft Power BI, Data Visualization, Data Cleaning
 
 **Key Insights**
