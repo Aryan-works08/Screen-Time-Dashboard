@@ -3,11 +3,12 @@
 
 This repository contains a dashboard visualizing screen time data. The dashboard provides insights into screen time usage patterns across different screen time types (educational, recreational, total), gender, day types (weekday, weekend), and age groups.
 
-**Tools Used**\
+**Tools Used**
 
 Microsoft Power BI, Data Visualization, Data Cleaning
 
 **Key Insights**
+
 Screen Time Distribution by Type: Total screen time accounts for 50% of the average screen time, recreational screen time for 36.33%, and educational screen time for 13.66%.
 
 Screen Time by Day Type: Weekend screen time is higher than weekday screen time, with 329 units for weekends and 263 units for weekdays.
