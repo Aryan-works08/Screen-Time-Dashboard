@@ -11,7 +11,7 @@ Microsoft Power BI, Data Visualization, Data Cleaning
 
 Screen Time Distribution by Type: Total screen time accounts for 50% of the average screen time, recreational screen time for 36.33%, and educational screen time for 13.66%.
 
-Screen Time by Day Type: Weekend screen time is higher than weekday screen time, with 329 units for weekends and 263 units for weekdays.
+Screen Time by Day Type: Weekend screen time is higher than weekday screen time, with 329 hours for weekends and 263 hours for weekdays.
 
 Average Screen Time Trends:
 
